@@ -1,0 +1,84 @@
+{
+    "Games": [
+        {
+            "id": 1,
+            "name": "God of War: Ragnarok",
+            "platform": "PS5",
+            "price": "79.99€",
+            "ofert": false,
+            "imgUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png"
+        },
+        {
+            "id": 2,
+            "name": "Mario + Rabbids Sparks of Hope",
+            "platform": "Switch",
+            "price": "59.99€",
+            "ofert": false,
+            "imgUrl": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_MarioAndRabbidsSparksOfHope_enGB_image1600w.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Bayonetta 3",
+            "platform": "Switch",
+            "price": "59.99€",
+            "ofert": false,
+            "imgUrl": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_Bayonetta3_image1600w.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Persona 5 Royal",
+            "platform": "PS5",
+            "price": "59.99€",
+            "ofert": false,
+            "imgUrl": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_Persona5Royal_image1600w.jpg"
+        },
+        {
+            "id": 5,
+            "name": "A Plague Tale: Requiem",
+            "platform": "PS5",
+            "price": "79.99€",
+            "ofert": false,
+            "imgUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png"
+        },
+        {
+            "id": 6,
+            "name": "Return to Monkey Island",
+            "platform": "PS5",
+            "price": "22.99€",
+            "ofert": false,
+            "imgUrl": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_ReturnToMonkeyIsland_image1600w.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Splatoon 3",
+            "platform": "Switch",
+            "price": "59.99€",
+            "ofert": false,
+            "imgUrl": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_Splatoon3_image1600w.jpg"
+        },
+        {
+            "id": 8,
+            "name": "The Last of Us Parte I",
+            "platform": "PS5",
+            "price": "79.99€",
+            "ofert": false,
+            "imgUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/om98Nw0drFxHKenowMEMbWx3.png"
+        },
+        {
+            "id": 9,
+            "name": "Xenoblade Chronicles 3",
+            "platform": "Switch",
+            "price": "79.99€",
+            "ofert": false,
+            "imgUrl": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_XenobladeChronicles3_image1600w.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Monster Hunter Rise: Sunbreak",
+            "platform": "PC",
+            "price": "69.99€",
+            "ofert": false,
+            "imgUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1880360/capsule_616x353.jpg?t=1664413720"
+        }
+    ]
+}
