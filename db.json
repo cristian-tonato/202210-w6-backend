@@ -80,5 +80,87 @@
             "ofert": false,
             "imgUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1880360/capsule_616x353.jpg?t=1664413720"
         }
+    ],
+    "Comics":[
+{
+    "id": 1,
+    "name": "Nightwing núm. 14",
+    "edit": "Dc",
+    "price": "16€",
+    "ofert": false,
+    "imgUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/83/bf/78/7913347/1540-1.jpg"
+},
+{
+    "id": 2,
+    "name": "Sandman - La saga completa",
+    "edit": "Ecc ediciones",
+    "price": "142.50€",
+    "ofert": false,
+    "imgUrl": "https://m.media-amazon.com/images/I/81aqfEOOiqL.jpg"
+},
+{
+    "id": 3,
+    "name": "Batman: El caballero núm. 03 de 10",
+    "edit": "Dc",
+    "price": "2€",
+    "ofert": false,
+    "imgUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/7f/bf/78/7913343/1540-1.jpg"
+},
+{
+    "id": 4,
+    "name": "Los caballeros oscuros de acero núm. 2 de 6",
+    "edit": "Ecc ediciones",
+    "price": "6€",
+    "ofert": false,
+    "imgUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/8b/bf/78/7913355/1540-1.jpg"
+},
+{
+    "id": 5,
+    "name": "Saga Nº 10",
+    "edit": "Planeta comic",
+    "price": "16.50€",
+    "ofert": false,
+    "imgUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/d9/92/75/7705305/1540-1.jpg"
+},
+{
+    "id": 6,
+    "name": "The Nice House on the Lake núm. 8 de 12",
+    "edit": "Ecc",
+    "price": "26€",
+    "ofert": false,
+    "imgUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/a2/87/78/7899042/1540-1.jpg"
+},
+{
+    "id": 7,
+    "name": "Nightwing núm. 14",
+    "edit": "Dc",
+    "price": "16€",
+    "ofert": false,
+    "imgUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/83/bf/78/7913347/1540-1.jpg"
+},
+{
+    "id": 8,
+    "name": "Detective Comics #1000 (DC Comics. 2019)",
+    "edit": "Dc",
+    "price": "76€",
+    "ofert": false,
+    "imgUrl": "https://www.playerone.vg/wp-content/uploads/2019/07/comics-2-1024x749.jpg"
+},
+{
+    "id": 9,
+    "name": "Secret Wars #1 (Marvel. 2015)",
+    "edit": "Marvel",
+    "price": "56€",
+    "ofert": false,
+    "imgUrl": "https://www.playerone.vg/wp-content/uploads/2019/07/comics-4-e1564175872415.jpg"
+},
+{
+    "id": 10,
+    "name": "Ultimate Spider-Man #1 (Marvel. 2002)",
+    "edit": "Marvel",
+    "price": "86€",
+    "ofert": false,
+    "imgUrl": "https://www.playerone.vg/wp-content/uploads/2019/07/comics-8-687x1024.jpg"
+}
     ]
 }
